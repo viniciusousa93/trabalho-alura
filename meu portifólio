@@ -12,8 +12,8 @@
 <body>
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
-        <h1>Eu ensino Programação</h1>
+        <p class="lead">Eu sou Vinicius_</p>
+        <h1>Eu estudo Programação</h1>
         <p>Sou Aluno de programação. Estudo pensamento computacional para estudantes do Ensino
             Fundamental e Médio. Estudo sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
             que já desenvolvi!</p>
